@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647395303170",
+    "project_id": "fayoum-queue",
+    "storage_bucket": "fayoum-queue.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647395303170:android:4e44d2eacaac9e9b8bac1b",
+        "android_client_info": {
+          "package_name": "com.fayoum.fayoum_student_queue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8bxS_pJ40ftwSINqliDROEMnN0jY8wa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
